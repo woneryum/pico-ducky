@@ -48,14 +48,6 @@ Bu proje, Raspberry Pi Pico'yu bir USB Rubber Ducky'ye dönüştürmenizi sağla
 
 Bu tool sadece eğitim ve test amaçlı kullanılmalıdır. Kötü amaçlı kullanımından doğacak sonuçlardan kullanıcı sorumludur.
 
-## 🤝 Katkıda Bulunma
-
-1. Bu repo'yu fork edin
-2. Yeni bir branch oluşturun (`git checkout -b yeni-ozellik`)
-3. Değişikliklerinizi commit edin (`git commit -am 'Yeni özellik eklendi'`)
-4. Branch'inizi push edin (`git push origin yeni-ozellik`)
-5. Pull Request oluşturun
-
 ## 📜 Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasına bakın.
