@@ -5,7 +5,7 @@ Bu proje, Raspberry Pi Pico'yu bir USB Rubber Ducky'ye dönüştürmenizi sağla
 ## 🛠️ Gereksinimler
 
 ### Donanım
-- Raspberry Pi Pico
+- Raspberry Pi Pico (https://github.com/dbisu/pico-ducky)
 - Micro USB kablo
 - Bilgisayar (Windows, Linux veya MacOS)
 
